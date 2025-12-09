@@ -1,5 +1,5 @@
 {
-  "name": "example-1-shadows",
+  "name": "rigid-bodies",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -13,7 +13,8 @@
     "react-dom": "^18.2.0",
     "three": "^0.158.0",
     "@react-three/fiber": "^8.15.0",
-    "@react-three/drei": "^9.88.0"
+    "@react-three/drei": "^9.88.0",
+    "@react-spring/three": "^9.7.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
